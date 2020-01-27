@@ -1,0 +1,5 @@
+<resources>
+    <style name="mytheme" parent="@style/Theme.AppCompat.NoActionBar" >
+        <item name="android:windowBackground">#053E8B</item>
+    </style>
+</resources>
